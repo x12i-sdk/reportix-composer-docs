@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "package": "@x12i/reportix-composer-docs",
+  "packageVersion": "0.7.0",
+  "npmUrl": "https://www.npmjs.com/package/@x12i/reportix-composer-docs",
+  "usageRepository": "https://github.com/x12i-sdk/reportix-composer",
+  "sourceRepository": "https://github.com/x12i/reportix-composer",
+  "sourceCommit": "4e39273cff7b1b643da0b528dae7d8209885290c",
+  "sourcePackageDirectory": "reportix-composer-docs/packages/reportix-composer-docs",
+  "example": {
+    "title": "List the bundled guides and read a use case",
+    "entrypoint": "src/index.mjs",
+    "command": "npm start",
+    "requiresCredentials": false,
+    "validation": "passed",
+    "validatedAt": "2026-10-24T13:04:10.945012+00:00",
+    "isolatedInstallation": true,
+    "sourceSha256": "b0b24335acd1e13869fa7c457072851f307ad2d20272ec3ed5fd695f42fa0b4c",
+    "manifestSha256": "199dc6684ed7ec5f50d37fffec984a39a52ad12b9358619093eac8d8a954b431"
+  },
+  "npmPackages": [
+    "@x12i/reportix-composer-docs"
+  ],
+  "publisher": "x12i-publisher[bot]"
+}
